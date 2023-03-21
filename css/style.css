@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-bottom: 200px;
+}
+
+p{
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+button{
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+
+.container{
+  width: 90%;
+  max-width: 800px;
+  margin: 30px auto;
+}
+
+.red{
+  color: brown;
+}
+
+.bigger{
+  font-size: 1.2rem;
+}
+
+.bg-yellow{
+  background-color: yellow;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.hide{
+  display: none;
+}
